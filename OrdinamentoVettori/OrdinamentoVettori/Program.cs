@@ -3,7 +3,7 @@
 namespace OrdinamentoVettori
 {
     class Program
-    {
+    {//commento
         static void Main(string[] args)
         {
             //Crezione e popolamento del vettori di interi
