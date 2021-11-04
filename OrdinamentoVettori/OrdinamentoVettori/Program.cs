@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace OrdinamentoVettori
-{
+{//commento di prova
     class Program
     {//commento
         static void Main(string[] args)
